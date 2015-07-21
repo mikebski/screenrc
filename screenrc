@@ -1,3 +1,8 @@
+# Set escape key to CTRL-j instead of CTRL-a so screen does not catch the beginning-of-line keystroke
 escape ^Jj
+
+# Caption on for the bottom line of the window
 caption always
+
+# See the gnu screen escape strings
 caption string "%{= KW} %{y} %w %{-}%= %{w}%H%?%{-} -- %{w}%l%?%{-} -- %D %M %d %{y}%c" 
