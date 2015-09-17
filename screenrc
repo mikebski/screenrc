@@ -5,4 +5,4 @@ escape ^Jj
 caption always
 
 # See the gnu screen escape strings
-caption string "%{= KW} %{y} %w %{-}%= %{w}%H%?%{-} -- %{w}%l%?%{-} -- %D %M %d %{y}%c" 
+caption string "%{= KW} Ctrl-j %{y} %w %{-}%= %{w}%H%?%{-} -- %{w}%l%?%{-} -- %D %M %d %{y}%c" 
