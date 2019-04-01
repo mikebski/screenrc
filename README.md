@@ -1,2 +1,3 @@
 # Screen file
-Copy to ~/.screenrc
+
+To use, `ln -s /path/to/screenrc ~/.screenrc`
